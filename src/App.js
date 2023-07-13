@@ -6,6 +6,7 @@ import Home from "./Components/Home";
 import Register from "./Components/Register";
 import HomePage from "./Components/Homepage";
 import Sidebar from "./Components/sidebar";
+import BookTicket from "./Components/BookTicket";
 import React from "react";
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
 			<Routes>
 		 		<Route path="/" element={<Home />} />
 		 		<Route path="/login" element={<Login />} />
+				 <Route path="/bookticket" element={<BookTicket />} />
 		 		<Route path="/register" element={<Register />} />
 		 	</Routes>
 		 </BrowserRouter>

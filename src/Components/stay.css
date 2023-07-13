@@ -42,7 +42,7 @@ h3{
     background-color:#f2f4f7;
     dispaly:flex;
 }
-input {
+.stayinput {
     width: 60%;
     border-radius: 20px;
     padding: 10px;

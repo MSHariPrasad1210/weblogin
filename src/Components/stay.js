@@ -18,7 +18,7 @@ function Stay() {
               </div>
      
               <div className="input2">
-              <input type="type" placeholder="Type your email address"></input>
+              <input type="type" placeholder="Type your email address" className="stayinput"></input>
              
               <a href="/" className="email-button">
 						        <button className="ebutton">Subscribe</button>

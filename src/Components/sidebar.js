@@ -5,7 +5,7 @@ function Sidebar() {
         <nav className="main-menu">
             <ul>
                 <li>
-                    <a href="./Home">
+                    <a href="/">
                         <i className="fa fa-home fa-2x"></i>
                         <span class="nav-text">
                            Home
@@ -14,8 +14,8 @@ function Sidebar() {
                   
                 </li>
                 <li className="has-subnav">
-                    <a href="#">
-                        <i className="fa fa-ticket-airline fa-2x"></i>
+                    <a href="/bookticket">
+                        <i className="fa fa-ticket fa-2x"></i>
                         <span className="nav-text">
                             Book Tickets
                         </span>

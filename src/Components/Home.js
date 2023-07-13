@@ -15,7 +15,7 @@ function Home() {
 					<h3>To get the best of your adventure you just need to leave and go where you like,we are waiting for you</h3>
 					</div>
 					
-					<a href="/login" className="link-button ">
+					<a href="/bookticket" className="link-button ">
 						<button className="book">Book Tickets</button>
 					</a>
 					</div>
